@@ -9,7 +9,7 @@
 
 ## Este proyecto realiza un análisis profundo de los asentamientos comerciales (mejor conocidos como tianguis) en la Ciudad de México para el año 2022, utilizando técnicas de limpieza de datos, normalización de texto y visualizaciones avanzadas de densidad geográfica. También se realizó una extracción de horarios de apertura/cierre mediante expresiones regulares (Regex) y, posteriormente, un cálculo de duración de jornadas usando dichos horarios.
 
-**![Distribución espacial de tianguis por Alcaldía (2022)](img/mapa_tianguis_alcaldia.png)**
+**![Distribución espacial de tianguis por Alcaldía (2022)](img/.png)**
 
 **![Distribución y densidad espacial de tianguis (Mapa Hexagonal) (2022)](img/mapa_tianguis_hexagonal.png)**
 
